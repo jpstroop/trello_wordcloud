@@ -1,0 +1,1818 @@
+{
+  "addl_stops" : ["anne", "anne's", "may", "n't", "'s", "barbara", "jon", "'fall", "e.g"],
+  "short_words" : ["us", "pu", "hr", "ux"],
+  "root_words_lookup": {
+    "add": [
+      "add"
+    ],
+    "definit": [
+      "definition",
+      "definite"
+    ],
+    "for": [
+      "for"
+    ],
+    "our": [
+      "our"
+    ],
+    "roadmap": [
+      "roadmap"
+    ],
+    "to": [
+      "to"
+    ],
+    "continu": [
+      "continuous",
+      "continue"
+    ],
+    "improv": [
+      "improvement",
+      "improve"
+    ],
+    "1": [
+      "1"
+    ],
+    ".": [
+      "."
+    ],
+    "strateg": [
+      "strategic"
+    ],
+    "relationship": [
+      "relationships",
+      "relationship"
+    ],
+    "2": [
+      "2"
+    ],
+    "oper": [
+      "operational",
+      "operates",
+      "operations"
+    ],
+    "agil": [
+      "agility",
+      "agile"
+    ],
+    "chang": [
+      "change",
+      "changes",
+      "changing"
+    ],
+    "-": [
+      "-"
+    ],
+    "workflow": [
+      "workflows",
+      "workflow"
+    ],
+    ",": [
+      ","
+    ],
+    "polici": [
+      "policies",
+      "policy"
+    ],
+    "procedur": [
+      "procedures"
+    ],
+    "3": [
+      "3"
+    ],
+    "align": [
+      "alignment",
+      "aligned"
+    ],
+    "&": [
+      "&"
+    ],
+    "consist": [
+      "consistency",
+      "consistent",
+      "consistently"
+    ],
+    "4": [
+      "4"
+    ],
+    "user": [
+      "user",
+      "users"
+    ],
+    "center": [
+      "centered"
+    ],
+    "servic": [
+      "services"
+    ],
+    "data-driven": [
+      "data-driven"
+    ],
+    "decis": [
+      "decisions"
+    ],
+    "5": [
+      "5"
+    ],
+    "cultur": [
+      "culture"
+    ],
+    "valu": [
+      "values",
+      "value"
+    ],
+    "pul": [
+      "PUL"
+    ],
+    "llt": [
+      "LLT"
+    ],
+    "influenc": [
+      "influencing",
+      "influences"
+    ],
+    "behavior": [
+      "behavior"
+    ],
+    "(": [
+      "("
+    ],
+    "risk": [
+      "risk"
+    ],
+    ")": [
+      ")"
+    ],
+    "hire": [
+      "hiring"
+    ],
+    "vacanc": [
+      "vacancies"
+    ],
+    "how": [
+      "how"
+    ],
+    "do": [
+      "do",
+      "doing"
+    ],
+    "you": [
+      "you"
+    ],
+    "shift": [
+      "shift"
+    ],
+    "when": [
+      "when"
+    ],
+    "are": [
+      "are"
+    ],
+    "handcuf": [
+      "handcuffed"
+    ],
+    "by": [
+      "by"
+    ],
+    "outsid": [
+      "outside"
+    ],
+    "?": [
+      "?"
+    ],
+    "we": [
+      "we"
+    ],
+    "be": [
+      "being",
+      "be"
+    ],
+    "success": [
+      "successful",
+      "succession",
+      "success"
+    ],
+    "becaus": [
+      "because"
+    ],
+    "of": [
+      "of"
+    ],
+    "ann": [
+      "anne"
+    ],
+    "'s": [
+      "'s"
+    ],
+    "and": [
+      "and"
+    ],
+    "across": [
+      "across"
+    ],
+    "the": [
+      "the"
+    ],
+    "univers": [
+      "university"
+    ],
+    "may": [
+      "may"
+    ],
+    "an": [
+      "an"
+    ],
+    "opportun": [
+      "opportunity",
+      "opportunities"
+    ],
+    "us": [
+      "us"
+    ],
+    "stay": [
+      "stay"
+    ],
+    "involv": [
+      "involved"
+    ],
+    "look": [
+      "look",
+      "looking"
+    ],
+    "at": [
+      "at"
+    ],
+    "with": [
+      "with"
+    ],
+    "a": [
+      "a"
+    ],
+    "specif": [
+      "specific"
+    ],
+    "len": [
+      "lens"
+    ],
+    "dei": [
+      "dei"
+    ],
+    "middl": [
+      "middle"
+    ],
+    "manag": [
+      "management",
+      "manage",
+      "managers"
+    ],
+    "communic": [
+      "communication",
+      "communications",
+      "communicate",
+      "communicating"
+    ],
+    "more": [
+      "more"
+    ],
+    "cascad": [
+      "cascading"
+    ],
+    "inform": [
+      "information",
+      "inform"
+    ],
+    "not": [
+      "not"
+    ],
+    "that": [
+      "that"
+    ],
+    "they": [
+      "they"
+    ],
+    "weak": [
+      "weak"
+    ],
+    "necessarili": [
+      "necessarily"
+    ],
+    "but": [
+      "but"
+    ],
+    "have": [
+      "have",
+      "having"
+    ],
+    "differ": [
+      "different"
+    ],
+    "understand": [
+      "understandings"
+    ],
+    "what": [
+      "what"
+    ],
+    "empow": [
+      "empowered"
+    ],
+    "vs": [
+      "vs"
+    ],
+    "need": [
+      "need",
+      "needs",
+      "needed"
+    ],
+    "them": [
+      "them"
+    ],
+    "fall": [
+      "'fall"
+    ],
+    "in": [
+      "in"
+    ],
+    "line": [
+      "line",
+      "lines"
+    ],
+    "'": [
+      "'"
+    ],
+    ";": [
+      ";"
+    ],
+    "also": [
+      "also"
+    ],
+    "can": [
+      "can"
+    ],
+    "make": [
+      "make",
+      "making"
+    ],
+    "local": [
+      "local"
+    ],
+    "seek": [
+      "seeking"
+    ],
+    "formal": [
+      "formal"
+    ],
+    "approv": [
+      "approval"
+    ],
+    "plan": [
+      "planning",
+      "plan"
+    ],
+    "develop": [
+      "develop",
+      "developed",
+      "development"
+    ],
+    "leader": [
+      "leaders",
+      "leader"
+    ],
+    "who": [
+      "who"
+    ],
+    "is": [
+      "is"
+    ],
+    "identifi": [
+      "identified",
+      "identify"
+    ],
+    "as": [
+      "as"
+    ],
+    "link": [
+      "links"
+    ],
+    "creat": [
+      "create"
+    ],
+    "fluid": [
+      "fluid"
+    ],
+    "flexibl": [
+      "flexible"
+    ],
+    "staff": [
+      "staff"
+    ],
+    "....": [
+      "...."
+    ],
+    "locat": [
+      "location",
+      "locations"
+    ],
+    "movement": [
+      "movement"
+    ],
+    "administr": [
+      "administrative"
+    ],
+    "role": [
+      "roles",
+      "role"
+    ],
+    "generic": [
+      "generic"
+    ],
+    "job": [
+      "job",
+      "jobs"
+    ],
+    "descript": [
+      "descriptions"
+    ],
+    "it": [
+      "it",
+      "its"
+    ],
+    "probabl": [
+      "probably"
+    ],
+    "work": [
+      "works",
+      "work",
+      "worked"
+    ],
+    "pula": [
+      "PULA"
+    ],
+    "admin": [
+      "admin"
+    ],
+    "better": [
+      "better"
+    ],
+    "subject": [
+      "subject"
+    ],
+    "liaison": [
+      "liaisons",
+      "liaison"
+    ],
+    "hr": [
+      "HR"
+    ],
+    "infrastructur": [
+      "infrastructure"
+    ],
+    "build": [
+      "build"
+    ],
+    "virtual": [
+      "virtual"
+    ],
+    "communiti": [
+      "community",
+      "communities"
+    ],
+    "/": [
+      "/"
+    ],
+    "activ": [
+      "active"
+    ],
+    "engag": [
+      "engagement",
+      "engage",
+      "engaging"
+    ],
+    "all": [
+      "all"
+    ],
+    "meet": [
+      "meetings",
+      "meeting"
+    ],
+    "``": [
+      "``"
+    ],
+    "''": [
+      "''"
+    ],
+    "ongo": [
+      "ongoing"
+    ],
+    "task": [
+      "task",
+      "tasks"
+    ],
+    "forc": [
+      "force"
+    ],
+    "leadership": [
+      "leadership"
+    ],
+    "redeploy": [
+      "redeploying"
+    ],
+    "peopl": [
+      "people"
+    ],
+    "other": [
+      "other",
+      "others"
+    ],
+    "unit": [
+      "units"
+    ],
+    "their": [
+      "their"
+    ],
+    "regular": [
+      "regular"
+    ],
+    "break": [
+      "break"
+    ],
+    "down": [
+      "down"
+    ],
+    "silo": [
+      "silos",
+      "siloing",
+      "siloed",
+      "silo"
+    ],
+    "give": [
+      "give"
+    ],
+    "feel": [
+      "feel"
+    ],
+    "rest": [
+      "rest"
+    ],
+    "librari": [
+      "library",
+      "libraries"
+    ],
+    "actual": [
+      "actually",
+      "actual"
+    ],
+    "reward": [
+      "rewards"
+    ],
+    "recognit": [
+      "recognition"
+    ],
+    "recogn": [
+      "recognize"
+    ],
+    "everyon": [
+      "everyone"
+    ],
+    "hard": [
+      "hard"
+    ],
+    "effort": [
+      "efforts"
+    ],
+    "...": [
+      "..."
+    ],
+    "celebr": [
+      "celebrate"
+    ],
+    "mandatori": [
+      "mandatory"
+    ],
+    "train": [
+      "trainings",
+      "training"
+    ],
+    "expect": [
+      "expectations"
+    ],
+    "method": [
+      "methods"
+    ],
+    "enforc": [
+      "enforce"
+    ],
+    "support": [
+      "support",
+      "supportive"
+    ],
+    "remot": [
+      "remote",
+      "remotely"
+    ],
+    "environ": [
+      "environment"
+    ],
+    "insuffici": [
+      "insufficient"
+    ],
+    "tech": [
+      "tech"
+    ],
+    "initi": [
+      "initially"
+    ],
+    "mani": [
+      "many"
+    ],
+    "rare": [
+      "rarely"
+    ],
+    "did": [
+      "did"
+    ],
+    "dedic": [
+      "dedicated",
+      "dedication"
+    ],
+    "hardwar": [
+      "hardware"
+    ],
+    "use": [
+      "use",
+      "using"
+    ],
+    "from": [
+      "from"
+    ],
+    "home": [
+      "home"
+    ],
+    "or": [
+      "or"
+    ],
+    "effici": [
+      "efficiently",
+      "efficiencies",
+      "efficiency"
+    ],
+    "some": [
+      "some"
+    ],
+    "reluct": [
+      "reluctant"
+    ],
+    "ask": [
+      "ask"
+    ],
+    "i": [
+      "i"
+    ],
+    "think": [
+      "think",
+      "thinking"
+    ],
+    "most": [
+      "most"
+    ],
+    "this": [
+      "this"
+    ],
+    "has": [
+      "has"
+    ],
+    "been": [
+      "been"
+    ],
+    "address": [
+      "addressed",
+      "address"
+    ],
+    "point": [
+      "point"
+    ],
+    "capabl": [
+      "capabilities"
+    ],
+    "handl": [
+      "handle"
+    ],
+    "help": [
+      "help",
+      "helping"
+    ],
+    "maneuv": [
+      "maneuvering"
+    ],
+    "respons": [
+      "responsibilities",
+      "response",
+      "responsiveness"
+    ],
+    "partnership": [
+      "partnerships",
+      "partnership"
+    ],
+    "campus": [
+      "campus"
+    ],
+    "partner": [
+      "partners"
+    ],
+    "about": [
+      "about"
+    ],
+    "like": [
+      "like"
+    ],
+    "eh": [
+      "ehs"
+    ],
+    "oit": [
+      "oit"
+    ],
+    "l": [
+      "l"
+    ],
+    "d": [
+      "d"
+    ],
+    "strengthen": [
+      "strengthen"
+    ],
+    "key": [
+      "key"
+    ],
+    "committe": [
+      "committees"
+    ],
+    "jon": [
+      "jon"
+    ],
+    "u": [
+      "u"
+    ],
+    "barbara": [
+      "barbara"
+    ],
+    "will": [
+      "will"
+    ],
+    "faculti": [
+      "faculty"
+    ],
+    "cohes": [
+      "cohesiveness"
+    ],
+    "allow": [
+      "allow",
+      "allowed"
+    ],
+    "true": [
+      "true"
+    ],
+    "veri": [
+      "very"
+    ],
+    "robust": [
+      "robust"
+    ],
+    "program": [
+      "program"
+    ],
+    ":": [
+      ":"
+    ],
+    "librarian": [
+      "librarians"
+    ],
+    "domain": [
+      "domain"
+    ],
+    "expert": [
+      "experts"
+    ],
+    "know": [
+      "know"
+    ],
+    "pu": [
+      "pu"
+    ],
+    "constitu": [
+      "constituencies"
+    ],
+    "well": [
+      "well"
+    ],
+    "extern": [
+      "external"
+    ],
+    "intern": [
+      "internal",
+      "international"
+    ],
+    "team": [
+      "team"
+    ],
+    "thought": [
+      "thoughtful"
+    ],
+    "on": [
+      "on"
+    ],
+    "challeng": [
+      "challenge",
+      "challenges"
+    ],
+    "top": [
+      "top"
+    ],
+    "stronger": [
+      "stronger"
+    ],
+    "n't": [
+      "n't"
+    ],
+    "grow": [
+      "grow"
+    ],
+    "increas": [
+      "increase",
+      "increased"
+    ],
+    "feedback": [
+      "feedback"
+    ],
+    "come": [
+      "coming",
+      "comes"
+    ],
+    "back": [
+      "back"
+    ],
+    "percept": [
+      "perception"
+    ],
+    "direct": [
+      "direct",
+      "directly",
+      "direction",
+      "directional"
+    ],
+    "covid": [
+      "covid"
+    ],
+    "empathi": [
+      "empathy"
+    ],
+    "frequenc": [
+      "frequency"
+    ],
+    "time": [
+      "timing",
+      "time"
+    ],
+    "was": [
+      "was"
+    ],
+    "import": [
+      "important"
+    ],
+    "exemplifi": [
+      "exemplified"
+    ],
+    "alon": [
+      "alone"
+    ],
+    "lept": [
+      "lept"
+    ],
+    "rtwtf": [
+      "rtwtf"
+    ],
+    "ftf": [
+      "ftf"
+    ],
+    "dure": [
+      "during"
+    ],
+    "crisi": [
+      "crisis"
+    ],
+    "strong": [
+      "strong"
+    ],
+    "put": [
+      "put"
+    ],
+    "togeth": [
+      "together"
+    ],
+    "quick": [
+      "quickly"
+    ],
+    "effect": [
+      "effective"
+    ],
+    "right": [
+      "right"
+    ],
+    "collabor": [
+      "collaboration"
+    ],
+    "move": [
+      "move",
+      "moving"
+    ],
+    "forward": [
+      "forward"
+    ],
+    "solv": [
+      "solve"
+    ],
+    "overcom": [
+      "overcomes"
+    ],
+    "vertic": [
+      "vertical"
+    ],
+    "joint": [
+      "joint"
+    ],
+    "revisit": [
+      "revisit"
+    ],
+    "power": [
+      "powerful",
+      "power"
+    ],
+    "inter-institut": [
+      "inter-institutional"
+    ],
+    "allianc": [
+      "alliances"
+    ],
+    "enabl": [
+      "enable"
+    ],
+    "serv": [
+      "serve"
+    ],
+    "iplc": [
+      "iplc"
+    ],
+    "recap": [
+      "recap"
+    ],
+    "hathi": [
+      "hathi"
+    ],
+    "crl": [
+      "crl"
+    ],
+    "creativ": [
+      "creative"
+    ],
+    "channel": [
+      "channels"
+    ],
+    "student": [
+      "students"
+    ],
+    "than": [
+      "than"
+    ],
+    "numer": [
+      "numerous"
+    ],
+    "email": [
+      "emails"
+    ],
+    "leverag": [
+      "leverage"
+    ],
+    "newli": [
+      "newly"
+    ],
+    "form": [
+      "formed"
+    ],
+    "e.g": [
+      "e.g"
+    ],
+    "w": [
+      "w"
+    ],
+    "mcgraw": [
+      "mcgraw"
+    ],
+    "u.": [
+      "u."
+    ],
+    "bodi": [
+      "bodies"
+    ],
+    "futur": [
+      "future"
+    ],
+    "purpos": [
+      "purposes",
+      "purpose"
+    ],
+    "just": [
+      "just"
+    ],
+    "current": [
+      "current"
+    ],
+    "document": [
+      "documentation",
+      "documented"
+    ],
+    "review": [
+      "review",
+      "reviews"
+    ],
+    "expand": [
+      "expand"
+    ],
+    "individu": [
+      "individuals"
+    ],
+    "onboard": [
+      "onboarding"
+    ],
+    "polit": [
+      "political"
+    ],
+    "dramat": [
+      "dramatic"
+    ],
+    "reduct": [
+      "reduction"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "prof.": [
+      "prof."
+    ],
+    "busi": [
+      "business"
+    ],
+    "attend": [
+      "attending"
+    ],
+    "same": [
+      "same"
+    ],
+    "workshop": [
+      "workshops"
+    ],
+    "event": [
+      "events"
+    ],
+    "larg": [
+      "large"
+    ],
+    "save": [
+      "savings"
+    ],
+    "cost": [
+      "costs",
+      "cost"
+    ],
+    "inflow": [
+      "inflow"
+    ],
+    "collect": [
+      "collection",
+      "collections"
+    ],
+    "materi": [
+      "materials"
+    ],
+    "process": [
+      "processing"
+    ],
+    "explor": [
+      "exploration",
+      "explore"
+    ],
+    "potenti": [
+      "potential"
+    ],
+    "might": [
+      "might"
+    ],
+    "realiz": [
+      "realize"
+    ],
+    "through": [
+      "through"
+    ],
+    "outsourc": [
+      "outsourcing"
+    ],
+    "result": [
+      "result"
+    ],
+    "possibl": [
+      "possibilities",
+      "possible"
+    ],
+    "peer": [
+      "peer"
+    ],
+    "institut": [
+      "institutions"
+    ],
+    "compon": [
+      "component"
+    ],
+    "innov": [
+      "innovative",
+      "innovation",
+      "innovations"
+    ],
+    "storag": [
+      "storage"
+    ],
+    "share": [
+      "shared",
+      "sharing",
+      "share"
+    ],
+    "digit": [
+      "digital",
+      "digitization",
+      "digitally"
+    ],
+    "benefit": [
+      "benefit"
+    ],
+    "analysi": [
+      "analysis"
+    ],
+    "beyond": [
+      "beyond"
+    ],
+    "princeton": [
+      "princeton"
+    ],
+    "underrepres": [
+      "underrepresented"
+    ],
+    "popul": [
+      "population"
+    ],
+    "tool": [
+      "tools"
+    ],
+    "resourc": [
+      "resources",
+      "resource"
+    ],
+    "vision": [
+      "vision"
+    ],
+    "reach": [
+      "reach"
+    ],
+    "divers": [
+      "diverse"
+    ],
+    "strategi": [
+      "strategy"
+    ],
+    "provid": [
+      "providing"
+    ],
+    "cdh": [
+      "cdh"
+    ],
+    "state": [
+      "stated"
+    ],
+    "ambit": [
+      "ambition"
+    ],
+    "connect": [
+      "connection"
+    ],
+    "softwar": [
+      "software"
+    ],
+    "revamp": [
+      "revamped"
+    ],
+    "updat": [
+      "updated",
+      "update",
+      "updates"
+    ],
+    "should": [
+      "should"
+    ],
+    "autom": [
+      "automating"
+    ],
+    "cut": [
+      "cutting",
+      "cuts"
+    ],
+    "option": [
+      "options"
+    ],
+    "cservic": [
+      "services"
+    ],
+    "ux": [
+      "UX"
+    ],
+    "platform": [
+      "platform"
+    ],
+    "patron": [
+      "patron",
+      "patrons"
+    ],
+    "inadequ": [
+      "inadequate"
+    ],
+    "protocol": [
+      "protocols"
+    ],
+    "system": [
+      "systems"
+    ],
+    "custom": [
+      "customers"
+    ],
+    "status": [
+      "status"
+    ],
+    "request": [
+      "requests"
+    ],
+    "black": [
+      "black"
+    ],
+    "hole": [
+      "hole"
+    ],
+    "problem": [
+      "problem"
+    ],
+    "embrac": [
+      "embrace"
+    ],
+    "idea": [
+      "idea"
+    ],
+    "pilot": [
+      "pilots"
+    ],
+    "nimbl": [
+      "nimble"
+    ],
+    "lean": [
+      "lean"
+    ],
+    "antiqu": [
+      "antiquated"
+    ],
+    "new": [
+      "new"
+    ],
+    "offer": [
+      "offer"
+    ],
+    "unfriend": [
+      "unfriendly"
+    ],
+    "space": [
+      "spaces"
+    ],
+    "difficult": [
+      "difficult"
+    ],
+    "navig": [
+      "navigate"
+    ],
+    "onlin": [
+      "online"
+    ],
+    "physic": [
+      "physical"
+    ],
+    "reimagin": [
+      "reimagine"
+    ],
+    "ve": [
+      "'ve"
+    ],
+    "organ": [
+      "organized"
+    ],
+    "content": [
+      "content"
+    ],
+    "scope": [
+      "scoping"
+    ],
+    "question": [
+      "questions"
+    ],
+    "base": [
+      "based"
+    ],
+    "spark": [
+      "sparks"
+    ],
+    "messag": [
+      "messaging",
+      "messages"
+    ],
+    "implement": [
+      "implementation"
+    ],
+    "issu": [
+      "issues"
+    ],
+    "play": [
+      "play"
+    ],
+    "bigger": [
+      "bigger"
+    ],
+    "lack": [
+      "lack"
+    ],
+    "systemat": [
+      "systematically"
+    ],
+    "shape": [
+      "shaping"
+    ],
+    "focus": [
+      "focus"
+    ],
+    "strength": [
+      "strength"
+    ],
+    "figur": [
+      "figure"
+    ],
+    "out": [
+      "out"
+    ],
+    "teach": [
+      "teaching"
+    ],
+    "mission": [
+      "mission"
+    ],
+    "signific": [
+      "significantly"
+    ],
+    "model": [
+      "model"
+    ],
+    "accur": [
+      "accurate"
+    ],
+    "data": [
+      "data"
+    ],
+    "mean": [
+      "mean"
+    ],
+    "report": [
+      "reports"
+    ],
+    "month": [
+      "monthly",
+      "months"
+    ],
+    "repres": [
+      "representative"
+    ],
+    "her": [
+      "her"
+    ],
+    "hierarchi": [
+      "hierarchy",
+      "hierarchies"
+    ],
+    "input": [
+      "inputs"
+    ],
+    "front": [
+      "front"
+    ],
+    "top-down": [
+      "top-down"
+    ],
+    "depend": [
+      "dependence"
+    ],
+    "vendor-suppli": [
+      "vendor-supplied"
+    ],
+    "usag": [
+      "usage"
+    ],
+    "e-resourc": [
+      "e-resources"
+    ],
+    "fwiw": [
+      "fwiw"
+    ],
+    "overus": [
+      "overuse"
+    ],
+    "acronym": [
+      "acronyms"
+    ],
+    "imho": [
+      "imho"
+    ],
+    "stress": [
+      "stress"
+    ],
+    "act": [
+      "acting"
+    ],
+    "too": [
+      "too"
+    ],
+    "last": [
+      "last"
+    ],
+    "minut": [
+      "minute"
+    ],
+    "simultan": [
+      "simultaneously"
+    ],
+    "enough": [
+      "enough"
+    ],
+    "whi": [
+      "why"
+    ],
+    "achiev": [
+      "achieve"
+    ],
+    "exceed": [
+      "exceed"
+    ],
+    "six": [
+      "six"
+    ],
+    "topic": [
+      "topic"
+    ],
+    "driven": [
+      "driven"
+    ],
+    "territori": [
+      "territoriality"
+    ],
+    "interdepend": [
+      "interdependence"
+    ],
+    "mode": [
+      "modes",
+      "mode"
+    ],
+    "mac": [
+      "mac"
+    ],
+    "op": [
+      "ops"
+    ],
+    "exampl": [
+      "example"
+    ],
+    "still": [
+      "still"
+    ],
+    "comfort": [
+      "comfortable"
+    ],
+    "hold": [
+      "holding"
+    ],
+    "each": [
+      "each"
+    ],
+    "account": [
+      "accountable"
+    ],
+    "trust": [
+      "trust"
+    ],
+    "within": [
+      "within"
+    ],
+    "arriv": [
+      "arrive"
+    ],
+    "outlin": [
+      "outlining"
+    ],
+    "area": [
+      "area"
+    ],
+    "posit": [
+      "positivity",
+      "positioned"
+    ],
+    "where": [
+      "where"
+    ],
+    "broken": [
+      "broken"
+    ],
+    "special": [
+      "special"
+    ],
+    "yet": [
+      "yet"
+    ],
+    "curatori": [
+      "curatorial"
+    ],
+    "group": [
+      "group"
+    ],
+    "dissolv": [
+      "dissolve"
+    ],
+    "smaller": [
+      "smaller"
+    ],
+    "inconsist": [
+      "inconsistencies"
+    ],
+    "relat": [
+      "relations"
+    ],
+    "department-level": [
+      "department-level"
+    ],
+    "staf": [
+      "staffing"
+    ],
+    "ill": [
+      "illnesses"
+    ],
+    "quarantin": [
+      "quarantine"
+    ],
+    "impact": [
+      "impact"
+    ],
+    "level": [
+      "levels",
+      "level"
+    ],
+    "therefor": [
+      "therefore"
+    ],
+    "fatigu": [
+      "fatigue"
+    ],
+    "overdr": [
+      "overdrive"
+    ],
+    "sinc": [
+      "since"
+    ],
+    "mid-march": [
+      "mid-march"
+    ],
+    "take": [
+      "takes"
+    ],
+    "toll": [
+      "toll"
+    ],
+    "could": [
+      "could"
+    ],
+    "lead": [
+      "lead"
+    ],
+    "exhaust": [
+      "exhaustion"
+    ],
+    "muddi": [
+      "muddied"
+    ],
+    "mistak": [
+      "mistakes"
+    ],
+    "solut": [
+      "solution"
+    ],
+    "unknown": [
+      "unknown"
+    ],
+    "!": [
+      "!"
+    ],
+    "action": [
+      "action"
+    ],
+    "govern": [
+      "government"
+    ],
+    "impos": [
+      "imposed"
+    ],
+    "restrict": [
+      "restrictions"
+    ],
+    "prepar": [
+      "prepare"
+    ],
+    "presid": [
+      "president"
+    ],
+    "tradit": [
+      "traditional"
+    ],
+    "view": [
+      "view"
+    ],
+    "tactic": [
+      "tactically"
+    ],
+    "entitl": [
+      "entitlement"
+    ],
+    "even": [
+      "even"
+    ],
+    "re": [
+      "'re"
+    ],
+    "wrong": [
+      "wrong"
+    ],
+    "fit": [
+      "fit"
+    ],
+    "personnel": [
+      "personnel"
+    ],
+    "both": [
+      "both"
+    ],
+    "expens": [
+      "expensive"
+    ],
+    "print": [
+      "print"
+    ],
+    "limit": [
+      "limited"
+    ],
+    "licens": [
+      "licenses"
+    ],
+    "general": [
+      "generally"
+    ],
+    "includ": [
+      "including"
+    ],
+    "purchas": [
+      "purchasing"
+    ],
+    "publish": [
+      "publishers"
+    ],
+    "push": [
+      "pushed"
+    ],
+    "around": [
+      "around"
+    ],
+    "churn": [
+      "churn"
+    ],
+    "treat": [
+      "treat"
+    ],
+    "reactiv": [
+      "reactive"
+    ],
+    "paus": [
+      "pause"
+    ],
+    "constant": [
+      "constant"
+    ],
+    "consorti": [
+      "consortial"
+    ],
+    "misunderstand": [
+      "misunderstand"
+    ],
+    "pull": [
+      "pulling"
+    ],
+    "core": [
+      "core"
+    ],
+    "budget": [
+      "budget"
+    ],
+    "short-term": [
+      "short-term"
+    ],
+    "scarciti": [
+      "scarcity"
+    ],
+    "mindset": [
+      "mindset"
+    ],
+    "overload": [
+      "overload"
+    ],
+    "alert": [
+      "alert"
+    ],
+    "which": [
+      "which"
+    ],
+    "caus": [
+      "cause"
+    ],
+    "start": [
+      "start"
+    ],
+    "miss": [
+      "missing"
+    ],
+    "alway": [
+      "always"
+    ],
+    "compet": [
+      "competing"
+    ],
+    "now": [
+      "now"
+    ],
+    "establish": [
+      "established"
+    ],
+    "send": [
+      "send"
+    ],
+    "inertia": [
+      "inertia"
+    ],
+    "lot": [
+      "lot"
+    ],
+    "next": [
+      "next"
+    ],
+    "step": [
+      "steps"
+    ],
+    "bring": [
+      "bring"
+    ],
+    "into": [
+      "into"
+    ],
+    "framework": [
+      "framework"
+    ],
+    "threat": [
+      "threat"
+    ],
+    "appreci": [
+      "appreciation"
+    ],
+    "between": [
+      "between"
+    ],
+    "remain": [
+      "remain"
+    ],
+    "quo": [
+      "quo"
+    ],
+    "go": [
+      "going"
+    ],
+    "normal": [
+      "normal"
+    ]
+  }
+}

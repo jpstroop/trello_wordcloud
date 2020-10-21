@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 nltk = "*"
 regex = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.9"

@@ -4,11 +4,11 @@ from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import word_tokenize
 from regex import match, sub
 
+# TODO: https://www.geeksforgeeks.org/generating-word-cloud-python/
+
 stopwords = stopwords.words("english")
 stemmer = SnowballStemmer("english")
-addl_stops = ["anne", "anne's", "may", "n't", "'s", "barbara", "jon", "'fall",
-    "e.g"]
-short_words = ["us", "pu", "hr", "ux"]
+
 
 def is_word(w):
     '''Return False if a word should be excluded'''
@@ -25,6 +25,12 @@ with open('./llt_swot.json') as f:
     cards = load(f)['cards']
 open_cards = [c for c in cards if not c['closed']]
 
+with open('./config.json') as f:
+    data = load(f)
+    root_words_lookup = data["root_words_lookup"]
+    addl_stops = data["addl_stops"]
+    short_words = data["short_words"]
+
 words = []
 root_words_lookup = {}
 for card in open_cards:
@@ -38,12 +44,16 @@ for card in open_cards:
         stemmed = stemmer.stem(word).lower()
         # TODO: split on "/" as well, and provide an override lookup for
         # the preferred version e.g. "prof."
+        word = word.lower()
         if stemmed not in root_words_lookup:
             root_words_lookup[stemmed] = []
         if word not in root_words_lookup[stemmed]:
-            root_words_lookup[stemmed].append(word.lower())
+            root_words_lookup[stemmed].append(word)
         if stemmed not in stopwords and is_word(stemmed):
+            # append the first label
             words.append(root_words_lookup[stemmed][0])
+
+
 
 for word in words:
     print(word)
