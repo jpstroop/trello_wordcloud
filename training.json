@@ -1,6 +1,35 @@
 {
-  "addl_stops" : ["anne", "anne's", "may", "n't", "'s", "barbara", "jon", "'fall", "e.g"],
-  "short_words" : ["us", "pu", "hr", "ux"],
+  "addl_stops": [
+    "'fall",
+    "'s",
+    "add",
+    "ann",
+    "anne's",
+    "anne",
+    "barbara",
+    "e.g",
+    "ftf",
+    "fwiw",
+    "imho",
+    "into",
+    "jon",
+    "lept",
+    "lot",
+    "may",
+    "mean",
+    "mid-march",
+    "n't",
+    "put",
+    "rtwtf",
+    "six",
+    "very"
+  ],
+  "short_words": [
+    "us",
+    "pu",
+    "hr",
+    "ux"
+  ],
   "root_words_lookup": {
     "add": [
       "add"
@@ -213,7 +242,7 @@
       "the"
     ],
     "univers": [
-      "university"
+      "Princeton"
     ],
     "may": [
       "may"
@@ -254,7 +283,7 @@
       "lens"
     ],
     "dei": [
-      "dei"
+      "DEI"
     ],
     "middl": [
       "middle"
@@ -727,7 +756,7 @@
       "ehs"
     ],
     "oit": [
-      "oit"
+      "OIT"
     ],
     "l": [
       "l"
@@ -794,7 +823,7 @@
       "know"
     ],
     "pu": [
-      "pu"
+      "Princeton"
     ],
     "constitu": [
       "constituencies"
@@ -957,16 +986,16 @@
       "serve"
     ],
     "iplc": [
-      "iplc"
+      "IPLC"
     ],
     "recap": [
       "recap"
     ],
     "hathi": [
-      "hathi"
+      "Hathi"
     ],
     "crl": [
-      "crl"
+      "CRL"
     ],
     "creativ": [
       "creative"
@@ -990,6 +1019,7 @@
       "leverage"
     ],
     "newli": [
+      "new",
       "newly"
     ],
     "form": [
@@ -1053,7 +1083,7 @@
       "travel"
     ],
     "prof.": [
-      "prof."
+      "profesional"
     ],
     "busi": [
       "business"
@@ -1084,8 +1114,8 @@
       "inflow"
     ],
     "collect": [
-      "collection",
-      "collections"
+      "collections",
+      "collection"
     ],
     "materi": [
       "materials"
@@ -1156,7 +1186,7 @@
       "beyond"
     ],
     "princeton": [
-      "princeton"
+      "Princeton"
     ],
     "underrepres": [
       "underrepresented"
@@ -1187,7 +1217,7 @@
       "providing"
     ],
     "cdh": [
-      "cdh"
+      "CDH"
     ],
     "state": [
       "stated"
@@ -1248,7 +1278,7 @@
       "customers"
     ],
     "status": [
-      "status"
+      "status-quo"
     ],
     "request": [
       "requests"
@@ -1806,7 +1836,7 @@
       "remain"
     ],
     "quo": [
-      "quo"
+      "status-quo"
     ],
     "go": [
       "going"
