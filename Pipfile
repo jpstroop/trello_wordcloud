@@ -9,6 +9,8 @@ verify_ssl = true
 nltk = "*"
 regex = "*"
 wordcloud = "*"
+numpy = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8.6"
